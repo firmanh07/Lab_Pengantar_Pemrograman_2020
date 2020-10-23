@@ -92,7 +92,7 @@ public class Nomor2 {
             System.out.println("6. Tabung");
             System.out.println("7. kerucut");
             System.out.println("8. bola"); 
-            System.out.println( "Input angka sesuai dengan bangun datar yang diinginkan");
+            System.out.println( "Input angka sesuai dengan bangun ruang yang diinginkan");
             int angka1 = sayang.nextInt();
             if (angka1==1){
                 System.out.println("input panjang sisi :");
